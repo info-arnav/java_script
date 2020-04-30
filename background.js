@@ -1,4 +1,4 @@
-
+//fetch, then and setTimout like funtion only return output after the main execution context of global is over
 //generator
 
 
