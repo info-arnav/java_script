@@ -57,3 +57,17 @@ nArra = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 nArra.filter(modulo);
 
 console.log(empty);
+
+//replace
+
+sentence = "i am a normal sentence";
+
+sentenceToArray = (mkey) => {
+  return mkey.split("");
+};
+
+converted = sentenceToArray(sentence);
+
+console.log(converted);
+
+//
