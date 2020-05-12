@@ -70,4 +70,6 @@ converted = sentenceToArray(sentence);
 
 console.log(converted);
 
-//
+//join
+
+join = (f) => (g) => f(g());
